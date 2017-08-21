@@ -3,3 +3,4 @@ elm-stuff/
 src/modules/*.js
 node_modules/
 semantic/
+elm.js
